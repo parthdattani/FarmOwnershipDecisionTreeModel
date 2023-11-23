@@ -30,7 +30,6 @@ install.packages("rpart.plot")
    cd farm-ownership-prediction
    ```
 
-3. Run the R script `Lab089Group12SinghKapuria.R` in your R environment or RStudio.
 
 ## Description
 
